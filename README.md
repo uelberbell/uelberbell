@@ -1,6 +1,9 @@
 <img align="right" height="590em" src="https://i.imgur.com/7BJy9zb.png"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Uelber!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uelberbell&color=yellow" alt="Profile views" /> </p>
+<p>
+Com uma formação em Análise e Desenvolvimento de Sistemas, estou sempre em busca de aprendizado e novos desafios na área de tecnologia. Atualmente, venho me dedicando ao estudo de HTML, CSS, JavaScript e COBOL, e estou animado para aplicar esses conhecimentos em projetos e soluções. Reconheço que sempre há algo novo a ser aprendido e, por isso, sou um profissional humilde e comprometido em aprimorar minhas habilidades e acompanhar as tendências do mercado. Acredito que a colaboração em equipe e a troca de experiências são fundamentais para o sucesso de qualquer projeto. Estou entusiasmado para contribuir em uma equipe de tecnologia e aprender cada vez mais com meus colegas.
+</p>
 
 - 🔭 Buscando aprender todos os dias ...
 - 👯 Colaborando sempre com os colegas ...
@@ -39,7 +42,7 @@
 
   
 <br><br>
-  
+ <!-- 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
