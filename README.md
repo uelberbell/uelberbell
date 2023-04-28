@@ -8,7 +8,7 @@
 
 <br><br>
 
-## 🛠 &nbsp;Tech Stack https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux
+## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -21,7 +21,7 @@
 
 <br><br>
 
-##Contact
+## Contact
 
 <p align="left" style="background:yellow">
 <a href="https://codepen.io/uelberbell" target="_blank">
