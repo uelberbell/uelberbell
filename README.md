@@ -27,6 +27,15 @@
 <a href="https://codepen.io/uelberbell" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-uelberbell-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
+  <a href="https://twitter.com/uelberbell" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-uelberbell-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
+<a href="https://www.linkedin.com/in/uelber-pereira-914b51142/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-uelberbell-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/uelberbell" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-uelberbell-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
 
   
 <br><br>
