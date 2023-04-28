@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://i.imgur.com/7BJy9zb.png"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Uelber, mas pode me chamar de Bell!</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Uelber!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uelberbell&color=yellow" alt="Profile views" /> </p>
 
 
