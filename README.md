@@ -12,10 +12,10 @@
 ## 🛠 &nbsp;Tech Stack
 
 
-![JCL]
-![CICS]
-![DB2]
-![TSO]
+![JCL](https://img.shields.io/badge/-JCL-05122A?style=flat&logo=JCL)&nbsp;
+![CICS](https://img.shields.io/badge/-CICS-05122A?style=flat&logo=CICS)&nbsp;
+![DB2](https://img.shields.io/badge/-DB2-05122A?style=flat&logo=DB2)&nbsp;
+![TSO](https://img.shields.io/badge/-TSO-05122A?style=flat&logo=TSO)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
