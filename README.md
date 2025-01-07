@@ -1,6 +1,6 @@
-<img align="right" height="590em" src="https://i.imgur.com/O7F00h1.jpeg"/>
+<!--<img align="right" height="590em" src="https://i.imgur.com/O7F00h1.jpeg"/> -->
 <h1 align="left">Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Uelber!</h1>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=uelberbell&color=yellow" alt="Profile views" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uelberbell&color=yellow" alt="Profile views" /> </p>
 
 - 💻 Atualmente estudando [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
 - 🔭 Buscando aprender todos os dias ...
