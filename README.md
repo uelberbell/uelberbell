@@ -12,6 +12,7 @@
 ## 🛠 &nbsp;Tech Stack
 
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=Social&logo=openjdk&logoColor=white)](https://img.shields.io/badge/java-%23ED8B00.svg?style=Social&logo=openjdk&logoColor=white)
+[![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=Social&logo=selenium&logoColor=white)](https://img.shields.io/badge/-selenium-%43B02A?style=Social&logo=selenium&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -19,6 +20,7 @@
 ![COBOL](https://img.shields.io/badge/-COBOL-05122A?style=flat&logo=COBOL)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+[![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-8957E5?style=Social&logo=github-copilot&logoColor=white)](https://img.shields.io/badge/GitHub_Copilot-8957E5?style=Social&logo=github-copilot&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Debian](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=debian)&nbsp;
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=Social&logo=Eclipse&logoColor=white)](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=Social&logo=Eclipse&logoColor=white)
